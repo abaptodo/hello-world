@@ -1,0 +1,2 @@
+data lt_spfli type standard table of spfli.
+data ls_spfli type spfli
